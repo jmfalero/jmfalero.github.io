@@ -4,13 +4,18 @@
 }
 
 body {
-  color: white;
+  color: aliceblue;
   background-color: black;
 }
 
+
 .footerfondo {
-  color: white;
-  background-color: rgb(53, 51, 51);
+  color: aliceblue;
+  background-color: rgba(67, 68, 66, 0.938);
 }
 
+.fondoBody {
+  color: black;
+  background-color: rgb(247, 248, 246);
+}
 
